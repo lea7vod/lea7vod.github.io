@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lea7vod.github.io/static/css/main.bcf5e96b.css",
+    "main.js": "/lea7vod.github.io/static/js/main.f36bb531.js",
+    "static/js/453.119edc6d.chunk.js": "/lea7vod.github.io/static/js/453.119edc6d.chunk.js",
+    "static/media/mpg.png": "/lea7vod.github.io/static/media/mpg.c382eb42e04a0a587852.png",
+    "static/media/logo-futu-natura.svg": "/lea7vod.github.io/static/media/logo-futu-natura.b20a3c88887eff88fecb5585aae1eed6.svg",
+    "index.html": "/lea7vod.github.io/index.html",
+    "main.bcf5e96b.css.map": "/lea7vod.github.io/static/css/main.bcf5e96b.css.map",
+    "main.f36bb531.js.map": "/lea7vod.github.io/static/js/main.f36bb531.js.map",
+    "453.119edc6d.chunk.js.map": "/lea7vod.github.io/static/js/453.119edc6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcf5e96b.css",
+    "static/js/main.f36bb531.js"
+  ]
+}
